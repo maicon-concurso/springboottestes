@@ -1,0 +1,5 @@
+package com.testeraplication.aplicationweb.entities;
+
+public class User {
+
+}
