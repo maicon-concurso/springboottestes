@@ -1,0 +1,5 @@
+package com.testeraplication.aplicationweb.config;
+
+public class TesteConfig {
+
+}

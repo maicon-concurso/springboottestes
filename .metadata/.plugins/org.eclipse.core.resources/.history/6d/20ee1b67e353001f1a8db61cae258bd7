@@ -1,0 +1,5 @@
+package com.testeraplication.aplicationweb.repositories;
+
+public interface UserRepository extends JpaRepository<User, Long> {
+
+}
